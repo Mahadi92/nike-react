@@ -13,6 +13,9 @@ body{
 
 
 /* First Section Items */
+header{
+    background-color: #f7ebd9;
+}
 .boxe-group img{
     height: 450px;
 }
@@ -29,4 +32,16 @@ body{
 }
 .color-highlighter{
     color: #FA804C !important;
+}
+
+/* Second Section Items */
+
+.casual-shoes h2{
+    font-size: 40px;
+    font-weight: 700;
+    font-family: 'Bangers', cursive;
+    letter-spacing: 3px;
+}
+.shoe-card-img{
+    border-radius: 7%;
 }
