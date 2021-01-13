@@ -2,21 +2,24 @@ body{
     font-family: 'Comfortaa', cursive !important;
 
 }
-/* Nav Items */
-.txt-color{
+.text-color-light{
     color: #3C3C3C;
     font-weight: 600;
 }
+.text-color-dark{
+    color: #363958;
+}
+/* Nav Items */
+
 
 /* First Section Items */
-
 .boxe-group img{
     height: 450px;
 }
+
 .box-title h1{
     font-size: 60px;
     font-family: 'Big Shoulders Stencil Text', cursive;
-    color: #363958;
 }
 .box-title button{
     font-weight: 700;
