@@ -9,12 +9,20 @@ body{
 .text-color-dark{
     color: #363958;
 }
+.color-highlighter{
+    color: #FA804C !important;
+}
+.btn-gradient{
+    background: linear-gradient(#FA804C, #fabd4c);
+    color: #fff !important;
+    border-radius: 8px !important;
+}
 /* Nav Items */
 
 
 /* First Section Items */
 header{
-    background-color: #f7ebd9;
+    background-color: #FFFFFF;
 }
 .boxe-group img{
     height: 450px;
@@ -22,6 +30,7 @@ header{
 
 .box-title h1{
     font-size: 60px;
+    text-shadow: 1px 1px 60px #FA804C !important;
     font-family: 'Big Shoulders Stencil Text', cursive;
 }
 .box-title button{
@@ -30,9 +39,7 @@ header{
 .box-title i{
     font-size: 20px;
 }
-.color-highlighter{
-    color: #FA804C !important;
-}
+
 
 /* Second Section Items */
 
@@ -42,6 +49,27 @@ header{
     font-family: 'Bangers', cursive;
     letter-spacing: 3px;
 }
+.shoe-card{
+    border: none !important;
+    border-radius: 5% !important;
+}
+.shoe-card h4{
+    font-weight: 500;
+    font-size: 30px;
+    letter-spacing: 2px;
+    font-family: 'Staatliches', cursive;
+    
+}
 .shoe-card-img{
+    background-color: #F1F1F1;
     border-radius: 7%;
+}
+.shoe-card-footer{
+    background: none !important;
+    border: none !important;
+}
+.shoe-card-footer h3{
+    font-size: 40px;
+    font-family: 'Staatliches', cursive;
+    letter-spacing: 3px;
 }
