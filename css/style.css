@@ -1,8 +1,29 @@
 body{
+    font-family: 'Comfortaa', cursive !important;
 
 }
 /* Nav Items */
-.nav-a{
+.txt-color{
     color: #3C3C3C;
     font-weight: 600;
+}
+
+/* First Section Items */
+
+.boxe-group img{
+    height: 450px;
+}
+.box-title h1{
+    font-size: 60px;
+    font-family: 'Big Shoulders Stencil Text', cursive;
+    color: #363958;
+}
+.box-title button{
+    font-weight: 700;
+}
+.box-title i{
+    font-size: 20px;
+}
+.color-highlighter{
+    color: #FA804C !important;
 }
