@@ -41,7 +41,7 @@ header{
 }
 
 
-/* Second Section Items */
+/* Second/ Third/ Fourth Section Items */
 
 .casual-shoes h2{
     font-size: 40px;
@@ -51,7 +51,7 @@ header{
 }
 .shoe-card{
     border: none !important;
-    border-radius: 5% !important;
+    border-radius: 15px !important;
 }
 .shoe-card h4{
     font-weight: 500;
@@ -69,7 +69,11 @@ header{
     border: none !important;
 }
 .shoe-card-footer h3{
-    font-size: 40px;
+    font-size: 35px;
     font-family: 'Staatliches', cursive;
     letter-spacing: 3px;
 }
+
+/* Fifth Section Items */
+
+
