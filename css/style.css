@@ -18,8 +18,13 @@ body{
     font-weight: bold !important;
     border-radius: 10px !important;
 }
-/* Nav Items */
+/* Header section */
 
+header{
+background: url(../images/Photos/latest-work-bg.png);
+background-repeat: no-repeat;
+background-size: cover;
+}
 
 /* First Section Items */
 header{
@@ -40,11 +45,16 @@ header{
 .box-title i{
     font-size: 20px;
 }
+/* Extra Section items */
+.sale-slider{
+    background: #fff8f4;
+    border-radius: 10px;
+}
 
 
 /* Second/ Third/ Fourth Section Items */
 
-.casual-shoes h2{
+h2{
     font-size: 40px;
     font-weight: 700;
     font-family: 'Bangers', cursive;
@@ -91,4 +101,16 @@ h4{
 }
 .services-ico img{
     height: 70px;
+}
+
+
+footer{
+    background: url(../images/Photos/footer-bg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+footer ul{
+    list-style: none;
+
 }
